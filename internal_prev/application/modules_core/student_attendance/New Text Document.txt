@@ -1,0 +1,1 @@
+<?php echo site_url('student_attendance/get_student_courses');?>
